@@ -302,6 +302,43 @@ header.masthead .masthead-heading {
 #mini-widget button a:hover{
     color: white !important;
 }
+
+/* About Us */
+
+.about-section h1{
+        font-size: 1.8rem;
+        font-weight: 700;
+        line-height: 3rem;
+        font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.about-section img{
+    height: 500px !important;
+}
+.about-section {
+    padding-top: 5rem;
+    background-color: white;
+  }
+
+  .projects-section {
+    background-color:  rgb(0,0,40);
+    color: white;
+  }
+
+  .about-section h2 {
+    margin-bottom: 30px;
+  }
+
+  .about-section p {
+    padding-bottom: 50px;
+  }
+
+  .projects-section {
+    padding: 5rem 0;
+  }
+  
+  .projects-section .featured-text {
+    padding: 2rem;
+  }
 /* Footer Section */
 footer{
     background-color: rgb(0,0,40) !important;

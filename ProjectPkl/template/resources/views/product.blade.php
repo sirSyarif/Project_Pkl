@@ -1,5 +1,7 @@
 @extends('template')
 
+@section('title', 'Products')
+
 @section('content')
 <!-- PRODUCT -->
     <div class="container-fluid" id="product-shot">

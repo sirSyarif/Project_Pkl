@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Home</title>
+    <title>Company - @yield('title')</title>
     <!-- Meta Tag -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
